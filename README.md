@@ -6,6 +6,7 @@ Hardware:
 - Módulo Wemos Mini D1 (ESP8266)
 - Servomotor (“Actuador eléctrico”)
 - Fuente alimentación
+
 Software:
 - Google Assistant
 - IFTTT (IF THIS, THEN THAT)
